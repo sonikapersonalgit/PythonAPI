@@ -6,8 +6,8 @@ on:
       - main
 
 env:
-  AZURE_WEBAPP_NAME: your-app-name
-  PYTHON_VERSION: '3.12'
+  AZURE_WEBAPP_NAME: sonikaapp
+  PYTHON_VERSION: '3.14'
 
 jobs:
   build-and-deploy:
